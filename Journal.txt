@@ -1,0 +1,13 @@
+100 Days of Code 
+
+---
+
+Feb 1st 2020
+
+Day 1: Built a Weather site using the OpenWeather API 
+
+Source: https://openweathermap.org/api
+Tutorial: https://www.skillshare.com/classes/Learn-HTML-CSS-JavaScriptjQuery-and-APIs-Build-a-Weather-Site/428313588/
+
+
+--
