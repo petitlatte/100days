@@ -10,4 +10,12 @@ Source: https://openweathermap.org/api
 Tutorial: https://www.skillshare.com/classes/Learn-HTML-CSS-JavaScriptjQuery-and-APIs-Build-a-Weather-Site/428313588/
 
 
---
+---
+
+Feb 2nd 2020
+
+Day 2: Created a Tip Calculator 
+
+Tutorial: https://www.skillshare.com/classes/Javascript-Fun-Build-a-Tip-Calculator/736318919
+
+---
