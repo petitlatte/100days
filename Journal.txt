@@ -19,3 +19,9 @@ Day 2: Created a Tip Calculator
 Tutorial: https://www.skillshare.com/classes/Javascript-Fun-Build-a-Tip-Calculator/736318919
 
 ---
+
+Feb 3rd 2020 
+
+Day 3: Introduction to p5.js
+
+Source: https://p5js.org/
