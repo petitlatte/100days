@@ -9,7 +9,6 @@ Day 1: Built a Weather site using the OpenWeather API
 Source: https://openweathermap.org/api
 Tutorial: https://www.skillshare.com/classes/Learn-HTML-CSS-JavaScriptjQuery-and-APIs-Build-a-Weather-Site/428313588/
 
-
 ---
 
 Feb 2nd 2020
@@ -25,3 +24,11 @@ Feb 3rd 2020
 Day 3: Introduction to p5.js
 
 Source: https://p5js.org/
+
+---
+
+Feb 4th 2020
+
+Day 4: Custom Wordpress theme
+
+---

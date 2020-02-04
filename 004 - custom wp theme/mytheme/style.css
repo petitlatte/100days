@@ -1,0 +1,119 @@
+/*
+Theme Name: MY THEME
+Author: Lisa Pearson
+Description: This is my original theme for my portfolio website.
+Version: 1.0
+*/
+
+body {
+	margin:0;
+	font-family: Helvetica, sans-serif;
+}
+
+.container {
+	max-width: 650px;
+	margin-left:auto;
+	margin-right:auto;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+article {
+	margin-bottom: 40px;
+}
+
+article h1{
+	margin:0;
+	font-size:36px;
+	font-weight: normal;
+}
+
+article h1 a {
+	color: #000000;
+	text-decoration: none;
+}
+/*single post info*/
+
+.postinfo{
+	margin-top: 15px;
+	font-size:14px;
+}
+
+.postinfo a{
+	color: #888888;
+	text-decoration: none;
+}
+
+.postinfo .postcat{
+	margin-left:20px;
+}
+
+.postinfo i {
+	color: #24B3B4;
+}
+
+.pagenav a {
+	padding: 5px 10px;
+	border: solid 1px #cccccc;
+	border-radius: 10px;
+	color: #666666;
+	font-size:12px;
+	text-decoration: none;
+}
+
+.pagenav .old a{
+	float:left;
+}
+
+.pagenav .new a{
+	float:right;
+}
+
+.pagenav {
+	overflow:hidden;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+
+/*HEADER */
+
+.siteinfo {
+	overflow:hidden;
+	padding-top:14px;
+	padding-bottom:14px;
+}
+
+.siteinfo h1{
+	float:left;
+	margin:0;
+	font-family: 'Raleway', sans-serif;
+	font-size:20px;
+}
+
+.siteinfo p {
+	float: right;
+	margin:0;
+	margin-top:5px;
+	font-size:12px;
+}
+
+header {
+	margin-bottom:40px;
+	background-color: #333333;
+	color:#ffffff;
+}
+
+header a{ 
+	text-decoration:none;
+	color:#ffffff;
+}
+
+/*FOOTER*/
+footer {
+	margin-top:40px;
+	padding-top: 14px;
+	padding-bottom: 14px;
+	background-color: #333333;
+	color: #ffffff;
+}
