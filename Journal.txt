@@ -32,3 +32,7 @@ Feb 4th 2020
 Day 4: Custom Wordpress theme
 
 ---
+
+Feb 5th 2020 
+
+Day 5: Continued on with custom wordpress theme. Added customization
