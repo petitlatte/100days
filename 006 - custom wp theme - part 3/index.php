@@ -118,4 +118,4 @@
 
 
 <?php get_footer(); ?>
-<!--Site Created by Lisa Pearson. For inquiries email me at lisapearson0619@gmail.com -->
+<!--Site Created by Lisa Pearson. For inquiries email me at lisapearson0619@gmail.com or twitter.com/petitlatte -->
