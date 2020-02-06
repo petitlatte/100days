@@ -35,4 +35,12 @@ Day 4: Custom Wordpress theme
 
 Feb 5th 2020 
 
-Day 5: Continued on with custom wordpress theme. Added customization
+Day 5: Continued on with custom wordpress theme. Finished all of blog section
+
+---
+
+Feb 6th 2020
+
+Day 6: Continued on with custom wordpress theme. Tested customization. Explored plug-ins.
+
+---
