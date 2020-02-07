@@ -1,0 +1,437 @@
+/*
+Theme Name: MY THEME
+Author: Lisa Pearson
+Description: This is my original theme for my portfolio website.
+Version: 1.0
+*/
+
+body {
+	margin:0;
+	font-family: Helvetica, sans-serif;
+}
+
+.container {
+	max-width: 650px;
+	margin-left:auto;
+	margin-right:auto;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+article {
+	margin-bottom: 40px;
+	overflow:hidden;
+}
+
+article h1{
+	margin:0;
+	font-size:36px;
+	font-weight: normal;
+}
+
+article h1 a {
+	color: #000000;
+	text-decoration: none;
+}
+
+article img{
+	border:none;
+	max-width:100%;
+	height:auto;
+}
+
+article p {
+	line-height:1.5;
+}
+
+
+
+/*single post info*/
+
+.postinfo{
+	margin-top: 15px;
+	font-size:14px;
+}
+
+.postinfo a{
+	color: #888888;
+	text-decoration: none;
+}
+
+.postinfo .postcat{
+	margin-left:20px;
+}
+
+.postinfo .postcom {
+	margin-left: 20px;
+}
+
+.postinfo i {
+	color: #24B3B4;
+}
+
+.pagenav a {
+	padding: 5px 10px;
+	border: solid 1px #cccccc;
+	border-radius: 10px;
+	color: #666666;
+	font-size:12px;
+	text-decoration: none;
+}
+
+.pagenav .old a{
+	float:left;
+}
+
+.pagenav .new a{
+	float:right;
+}
+
+.pagenav {
+	overflow:hidden;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	clear: both;
+}
+
+
+/*HEADER */
+
+.siteinfo {
+	overflow:hidden;
+	padding-top:14px;
+	padding-bottom:14px;
+	background-color: #ffffff;
+	color:#24B3B4;
+}
+
+.siteinfo a {
+	color: #24B3B4;
+}
+
+.siteinfo h1{
+	float:left;
+	margin:0;
+	font-family: 'Raleway', sans-serif;
+	font-size:20px;
+}
+
+.siteinfo p {
+	float: right;
+	margin:0;
+	margin-top:5px;
+	font-size:12px;
+}
+
+/*header image*/
+
+header img {
+	width: 100%;
+	height: auto;
+	vertical-align: bottom;
+}
+
+/*NAVIGATION BAR*/
+
+nav ul {
+	list-style: none;
+	margin:0;
+	padding:0;
+	overflow:hidden;	
+}
+
+nav li {
+	float: left;
+	margin-right: 15px;
+}
+
+nav li a {
+	display:block;
+	padding-top:15px;
+	padding-bottom:10px;
+	border-bottom: solid 5px transparent;
+}
+
+nav li a:hover{
+	border-bottom-color: #24B3B4;
+}
+
+nav li.current-menu-item a {
+	border-bottom-color: #e6cc1c;
+}
+
+header {
+	margin-bottom:40px;
+	background-color: #333333;
+	color:#ffffff;
+}
+
+header a{ 
+	text-decoration:none;
+	color:#ffffff;
+}
+
+/*FOOTER*/
+footer {
+	margin-top:40px;
+	padding-top: 14px;
+	padding-bottom: 14px;
+	background-color: #333333;
+	color: #ffffff;
+}
+
+.aligncenter{
+	display:block;
+	margin-top:30px;
+	margin-bottom:30px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.alignright {
+	float:right;
+	margin-bottom:30px;
+	margin-left:30px;
+}
+
+.alignleft {
+	float:left;
+	margin-bottom:30px;
+	margin-right: 30px;
+}
+
+.alignleft,.alignright {
+	margin-top:2px;
+}
+/*overwriting wordpress default settings*/
+figcaption {
+	font-size:12px !important;
+	text-align: center !important;
+	color: #777777 !important ;
+}
+
+.blogmenu ul{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+
+.blogmenu .widget{
+	margin-bottom: 30px;
+	padding: 20px;
+	background-color: #e8e8e8;
+}
+
+.blogmenu .widgettitle {
+	margin-top:10px;
+	margin-bottom:20px;
+	border-right: solid 8px #24B3B4;
+	color: #24B3B4;
+	font-size:16px;
+}
+
+.blogmenu li a {
+	line-height: 1.5;
+	color: #666666;
+	font-size: 14px;
+	text-decoration: none;
+}
+
+.blogmenu li a:hover {
+color: #000000;
+text-decoration: underline;
+}
+
+.blogmenu li {
+	font-size:12px;
+	color: #b6771c;
+}
+
+.archive-title {
+	margin-top: 0;
+	margin-bottom: 40px;
+	background-color: #eeeeee;
+	font-size:16px;
+	font-weight: normal;
+}
+
+.archive-title i{
+	padding:15px;
+	background-color: #24B3B4;
+	color: #ffffff;
+}
+
+/*comment section*/
+
+#respond p {
+	margin-top: 0;
+	margin-bottom: 20px;
+	font-size: 12px;
+}
+
+#respond label {
+	font-size: 14px;
+}
+
+#respond input,
+#respond textarea {
+	width:100%;
+	padding:5px;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+#respond input[type = "submit"]{
+	width: 200px;
+	padding:10px;
+	border:none;
+	background-color: #24B3B4;
+	color:white;
+	-webkit-appearance:none;
+}
+
+#respond input[type = "submit"]:hover{
+	background-color: #888888;
+	cursor:pointer;
+	transition: 0.5s ease;
+}
+
+#comments footer{
+	background: none;
+	margin:0;
+	color: #000000;
+	font-size:12px;
+}
+
+#comments footer a{
+	color: #000000;
+}
+
+#comments footer div{
+	display: inline;
+}
+
+#comments ul{
+	list-style: none;
+	margin:0;
+	padding:0;
+}
+
+#comments article{
+	border: dotted 1px #aaaaaa;
+	margin-bottom: 10px;
+	padding: 10px 20px 20px 20px;
+}
+
+#comments .comment-content {
+	margin-left:30px;
+}
+
+/*Contact Form*/
+
+.wpcf7 input,
+.wpcf7 textarea {
+	width:100%;
+	padding:5px;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.wpcf7 input[type = "submit"]{
+	width: 200px;
+	padding:10px;
+	border:none;
+	background-color: #24B3B4;
+	color:white;
+	-webkit-appearance:none;
+}
+
+.wpcf7 input[type = "submit"]:hover{
+	background-color: #888888;
+	cursor:pointer;
+	transition: 0.5s ease;
+}
+
+
+/*MEDIA QUERIES*/
+
+@media(min-width: 768px){
+.container {
+	max-width:1000px;
+	overflow:hidden;
+}
+
+.contents {
+	width:65%;
+	float:left;
+}
+
+.blogmenu{
+	width:30%;
+	float:right;
+}
+
+}
+
+/*Excerpt*/
+.excerpt p {
+	font-size:14px;
+}
+
+.excerpt .more a{
+	padding:5px 20px;
+	border: solid 1px #cccccc;
+	border-radius: 5px;
+	color: #000000;
+	text-decoration: none;
+}
+
+.excerpt .more a:hover{
+	background-color: #24B3B4;
+	transition: 0.5s ease;
+}
+
+.excerpt .more i{
+	margin-left:10px;
+	color: #cccccc;
+}
+
+@media (min-width:500px){
+	.excerpt img {
+		float:left;
+		margin-right: 20px;
+		width:40%;
+	}
+}
+
+@media (max-width: 499px){
+	.excerpt img {
+	display: block;
+	margin-left: auto;
+	margin-right:auto;
+}
+}
+
+.largeheader{
+	width:100%;
+	height:auto;
+	vertical-align: bottom;
+}
+
+.home header {
+	margin-bottom:0;
+}
+
+.home footer {
+	margin-top: 0;
+	position:absolute;
+	bottom:0;
+	left:0;
+	right:0;
+}
+
+.PP_Entry__title{
+	text-decoration: none;
+}
