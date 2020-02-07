@@ -44,3 +44,9 @@ Feb 6th 2020
 Day 6: Continued on with custom wordpress theme. Tested customization. Explored plug-ins.
 
 ---
+
+Feb 7th 2020 
+
+Day 7: Gallery plugin works as intended. Updated website content.
+
+---
