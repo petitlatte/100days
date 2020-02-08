@@ -56,3 +56,9 @@ Feb 8th 2020
 Day 8: Spinning dice animation using HTML/CSS 
 
 Source: https://www.skillshare.com/classes/Web-Design-with-HTML5-CSS3-Special-Effects-Create-Rotating-Cubes/533059054
+
+---
+
+Feb 9th 2020
+
+Day 9: 
