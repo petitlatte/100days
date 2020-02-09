@@ -61,4 +61,6 @@ Source: https://www.skillshare.com/classes/Web-Design-with-HTML5-CSS3-Special-Ef
 
 Feb 9th 2020
 
-Day 9: 
+Day 9: Basic set up of clock. Still need to fix background css
+
+---

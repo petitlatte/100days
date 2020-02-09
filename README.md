@@ -8,4 +8,4 @@ Day 5: Custom Wordpress theme (part 2) [x]
 Day 6: Custom Wordpress theme (part 3) [x]
 Day 7: Custom Wordpress theme (part 4) [x]
 Day 8: Spinning dice [x]
-Day 9: 
+Day 9: Clock [x]

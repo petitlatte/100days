@@ -1,0 +1,30 @@
+body{
+	padding:0;
+	margin:0;
+}
+
+.container {
+display:flex;
+justify-content:center
+align-items:center;
+height:100vh;
+background-position: center;
+background-size: cover;
+}
+
+.container, #evening{
+background: url("../img/evening.jpg");
+background-position: center;
+background-size: cover;
+}
+
+/*.container, #morning{
+background: url("../img/morning.jpg");
+background-position: center;
+background-size: cover;
+}*/
+
+.text-container{
+	color:white;
+	font-size:30px;
+}
