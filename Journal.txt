@@ -65,3 +65,9 @@ Day 9: Built a clock using js. Need to fix some css
 
 ---
 
+Feb 10th 2020
+
+Day 10: Added a to-do list
+
+Source: https://www.w3schools.com/howto/howto_js_todolist.asp
+

@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<link rel="stylesheet" type="text/css" href="css/styles.css">
-	<title>Simple Clock</title>
+	<title>Dashboard</title>
 </head>
 <body>
 
@@ -13,7 +13,7 @@
 	<div id = "evening"></div>
 	
 
-		<div class = "data">
+	<div class = "data">
 	<h2>Weather</h2>
 	<p class = "box" id = "location"></p>
 	<p class = "box" id = "temperature"></p>
@@ -25,12 +25,21 @@
 
 	<div id ="greetingText"></div>		
 	<div id = "currentTime"></div>
-	<p>What would you like to do today?</p>
+	
+<!--To-Do List-->
+
+		<div id = "toDoList" class = "list">
+		<h2>My To-Do list</h2>
+		<input type = "text" id = "taskText" placeholder = "Add a task ..."></input>
+		<span onclick = "addFunction()" class = "addBtn">Add to list</span>
+
+
+		<ul id = "myUL">
+		</ul>
+		</div>
 	</div>
 
-</div>
-
-<div id="icon"><img id="wicon" src="" alt="Weather icon"></div>
+</div> <!--Container-->
 
 <script src="https://code.jquery.com/jquery-3.4.1.js" integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script>
 <script src = "js/weather.js" ></script>
