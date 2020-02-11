@@ -71,3 +71,10 @@ Day 10: Added a to-do list
 
 Source: https://www.w3schools.com/howto/howto_js_todolist.asp
 
+---
+
+Feb 11th 2020
+
+Day 11: Started on Memory Game 
+
+---

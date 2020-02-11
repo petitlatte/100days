@@ -1,0 +1,19 @@
+body{
+	padding:0;
+	margin:0;
+	background-color: grey;
+}
+
+.startButton{
+	padding: 5px 10px;
+	border: solid 1px black;
+	border-radius: 2px;
+	text-decoration: none;
+	color:white;
+}
+
+.startButton:hover {
+	cursor:pointer;
+	transition: ease 1s;
+	background-color: black;
+}
