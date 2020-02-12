@@ -1,0 +1,10 @@
+************Native Bird Memory Game ********************
+
+Notes: 
+- When card flipped, if correct stay on page (greyed out) If incorrect flip back to original position.
+- Track number of tries
+- Track time
+- Add a win screen, showing total of tries, total time. Add play again button
+
+Extra: info/small facts about birds
+

@@ -1,0 +1,26 @@
+* {
+	box-sizing: border-box;
+}
+
+html{
+	min-height: 100vh;
+}
+
+body {
+	margin: 0;
+	background: radial-gradient(#84c322,#244f21);
+}
+
+.page-title{
+	color:white;
+	font-family: Helvetica, sans-serif;
+	font-weight:normal;
+	text-align: center;
+	font-size:6em;
+}
+
+.game-info{
+
+	color: #244f21;
+	font-size:4em;
+}
