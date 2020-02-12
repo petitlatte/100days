@@ -37,6 +37,10 @@ body {
 	border-radius:3px;
 }
 
+.card-front{}
+
+.card-back{}
+
 .game-container {
 	display:grid;
 	grid-template-columns: repeat(4, auto);
@@ -44,3 +48,4 @@ body {
 	margin: 50px;
 	justify-content:center;
 }
+
