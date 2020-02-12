@@ -78,3 +78,9 @@ Feb 11th 2020
 Day 11: Started on Memory Game 
 
 ---
+
+Feb 12th 2020
+
+Day 12: Added cards
+
+Source: https://www.youtube.com/watch?v=28VfzEiJgy4
