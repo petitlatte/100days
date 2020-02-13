@@ -6,7 +6,6 @@
 
 body {
   margin: 20px 0;
-  background: #6589f9;
 }
 
 .grid {
@@ -23,6 +22,6 @@ body {
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center center;
-  height: 150px;
+  height: 225px;
   width: 150px;
 }
