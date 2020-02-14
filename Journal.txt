@@ -91,3 +91,10 @@ Feb 13th 2020
 Day 13: attempt at fixing errors. started from scratch. Cards now appear in random order after every refresh
 
 Source: https://www.taniarascia.com/how-to-create-a-memory-game-super-mario-with-plain-javascript/
+---
+
+Feb 14th 2020
+
+Day 14: Finished basic functions. 
+
+---

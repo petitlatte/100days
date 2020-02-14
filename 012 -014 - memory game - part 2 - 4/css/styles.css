@@ -1,0 +1,77 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 30px 0;
+  height:100vh;
+  background: green;
+}
+
+h1{
+  color:white;
+  font-family: helvetica, sans-serif;
+  text-align: center;
+  font-weight: normal;
+}
+
+.points-container {
+  display:block;
+  max-width:1000px;
+  margin-left:auto;
+  margin-right:auto;
+}
+.grid {
+  max-width: 960px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.card {
+  position: relative;
+  transition: all .4s linear;
+  transform-style: preserve-3d;
+  margin: 5px;
+}
+
+.card:hover{
+  cursor:pointer;
+}
+
+.card,
+.back,
+.front {
+  height: 225px;
+  width: 150px;
+  border-radius: 3px;
+}
+
+.back,
+.front {
+  position: absolute;
+  backface-visibility: hidden;
+}
+
+.front {
+  z-index: 2;
+  background: black url('../img/card.png') no-repeat center center / contain;
+}
+
+.back {
+  transform: rotateY(180deg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.selected {
+  transform: rotateY(180deg);
+}
+
+.match .front {
+  background: green !important;
+}

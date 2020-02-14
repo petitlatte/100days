@@ -31,5 +31,11 @@ const cardsArray = [
     name: 'Kokako',
     img: 'img/kokako.png',
   },
+    {
+    name: 'Silvereye',
+    img: 'img/silvereye.png',
+  },
+
+  
 
   ]
