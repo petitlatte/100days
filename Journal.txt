@@ -98,3 +98,12 @@ Feb 14th 2020
 Day 14: Finished basic functions. 
 
 ---
+
+Feb 15th 2020
+
+Day 15: Didn't code today (late hours at work). Read a few chapters from js/jquery by Jon Duckett
+
+---
+Feb 16th 2020
+
+Day 16: 

@@ -13,3 +13,6 @@ Day 10: Dashboard [x]
 Day 11: Memory Game (part 1) [x]
 Day 12: Memory Game (part 2) [x]
 Day 13: Memory Game (part 3) [x]
+Day 14: Memory Game (part 4) [x]
+Day 15: js/jQuery revision [x]
+Day 16:
