@@ -106,4 +106,6 @@ Day 15: Didn't code today (late hours at work). Read a few chapters from js/jque
 ---
 Feb 16th 2020
 
-Day 16: 
+Day 16: Created abstract art using javascript and p5.js
+
+Source: https://www.skillshare.com/classes/Creating-Abstract-Art-With-JavaScript-And-P5.js/1658349438
