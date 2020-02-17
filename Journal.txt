@@ -109,3 +109,10 @@ Feb 16th 2020
 Day 16: Created abstract art using javascript and p5.js
 
 Source: https://www.skillshare.com/classes/Creating-Abstract-Art-With-JavaScript-And-P5.js/1658349438
+---
+
+Feb 17th 2020
+
+Day 17: Feeling uninspired, decided to take a step back and write out a proper plan.
+
+---
