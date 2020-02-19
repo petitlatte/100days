@@ -116,3 +116,14 @@ Feb 17th 2020
 Day 17: Feeling uninspired, decided to take a step back and write out a proper plan.
 
 ---
+
+Feb 18th 2020
+
+Day 18: Started to learn about React.
+---
+
+Feb 19th 2020
+
+Day 19: Read tutorials on react with examples.
+
+--- 

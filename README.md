@@ -33,3 +33,7 @@ Day 15: js/jQuery revision [x]
 Day 16: Abstract Art with Javascript and p5.js [x]
 
 Day 17: Planning [x]
+
+Day 18: Introduction to React (part 1) [x]
+
+Day 19: Introduction to React (part 2) [x]
