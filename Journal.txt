@@ -126,4 +126,9 @@ Feb 19th 2020
 
 Day 19: Read tutorials on react with examples.
 
---- 
+---
+Feb 20th 2020
+
+Day 20: Built a Tic Tac Toe game using React
+
+Source: https://www.skillshare.com/classes/Tic-Tac-Toe-A-Playful-Intro-to-React/1248127804?via=search-layout-grid 
