@@ -132,3 +132,8 @@ Feb 20th 2020
 Day 20: Built a Tic Tac Toe game using React
 
 Source: https://www.skillshare.com/classes/Tic-Tac-Toe-A-Playful-Intro-to-React/1248127804?via=search-layout-grid 
+
+---
+Feb 21st 2020
+
+Day 21: Finished Tic Tac Toe Game
