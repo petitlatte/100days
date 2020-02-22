@@ -137,3 +137,7 @@ Source: https://www.skillshare.com/classes/Tic-Tac-Toe-A-Playful-Intro-to-React/
 Feb 21st 2020
 
 Day 21: Finished Tic Tac Toe Game
+---
+Feb 22nd 2020
+
+Day 22: 
