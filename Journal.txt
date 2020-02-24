@@ -138,11 +138,6 @@ Feb 21st 2020
 
 Day 21: Finished Tic Tac Toe Game
 ---
-Feb 22nd 2020
+Feb 22nd - 24th 2020
 
-Day 22: 
-
----
-Feb 23 2020
-
-Day 23: 
+Day 22 -24: reworked on current portfolio

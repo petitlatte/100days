@@ -21,5 +21,4 @@ Day 18: Introduction to React (part 1) [x]
 Day 19: Introduction to React (part 2) [x]
 Day 20: Tic Tac Toe (React) [x]
 Day 21: Tic Tac Toe (React) finished [x]
-Day 22: 
-Day 23: 
+Day 22 - 24: reworked on current portfolio [x]
