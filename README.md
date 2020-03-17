@@ -27,3 +27,11 @@ Day 26: portfolio progress part 2 [x]
 Day 27: portfolio progress part 3 [x]
 Day 28: Catch up work [x]
 Day 29: Catch up work part 2 [x]
+
+---
+
+Break
+
+---
+
+Day 30: 

@@ -171,27 +171,11 @@ Day 29: catch up work
 
 --------------------------------------------------------------------------------
 
-Comments: First month completed, however I found the challenge to be unproductive and need to make a few changes. 
+Break
 
-What worked:
+--------------------------------------------------------------------------------
 
-habit of commiting to repo
-focused on developing portfolio
-good javascript refresher 
-found coding fun again
-
-What didn't work: 
-
-Didn't know what to code 
-no time to code after long hours at work + gym
-didn't update regularly on twitter
-
-What next: 
-
-- focus on one project per week instead of trying to find new projects to make every day
-
-----
-
-March 1st 2020
+March 18th 2020
 
 Day 30: 
+
